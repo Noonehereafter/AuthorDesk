@@ -1,0 +1,11 @@
+{
+  "dial.label": "Grounding Level",
+  "level.0.name": "Free Creative",
+  "level.0.desc": "References Story Bible only",
+  "level.1.name": "Assisted",
+  "level.1.desc": "Sources suggested, not required",
+  "level.2.name": "Verified",
+  "level.2.desc": "Scientific facts need sources",
+  "level.3.name": "Strict Grounded",
+  "level.3.desc": "All claims require sources"
+}

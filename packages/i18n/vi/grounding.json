@@ -1,0 +1,11 @@
+{
+  "dial.label": "Mức độ kiểm chứng",
+  "level.0.name": "Sáng tạo tự do",
+  "level.0.desc": "Chỉ tham chiếu Story Bible nội bộ",
+  "level.1.name": "Có hỗ trợ",
+  "level.1.desc": "Gợi ý nguồn, không bắt buộc",
+  "level.2.name": "Đã xác minh",
+  "level.2.desc": "Fact khoa học cần có nguồn",
+  "level.3.name": "Kiểm chứng nghiêm ngặt",
+  "level.3.desc": "Mọi claim phải có nguồn"
+}
